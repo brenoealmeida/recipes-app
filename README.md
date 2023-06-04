@@ -67,7 +67,8 @@ O projeto Recipes App foi desenvolvido utilizando as seguintes tecnologias:
 ## Autores
 
 Projeto realizado em grupo. 
-Este projeto foi desenvolvido por [Breno Almeida](https://github.com/brenoealmeida).
+Este projeto foi desenvolvido em grupo como parte do curso de Desenvolvimento Web da Trybe.
+[Breno Almeida](https://github.com/brenoealmeida).
 
 
     
